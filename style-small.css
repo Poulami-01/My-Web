@@ -3,13 +3,13 @@
 /* Basic */
 
 	body, input, select, textarea {
-		font-size: 12pt;
+		font-size: 10pt;
 	}
 
 /* Banner */
 
 	#banner {
-		padding: 8em 2em 8em;
+		padding: 4em 6em 8em;
 	}
 
 /* Wrapper */
@@ -30,8 +30,8 @@
 	}
 
 		#footer .copyright li {
-			border-left: 0;
-			margin-left: 0;
+			border-left: 4;
+			margin-left: 3;
 			padding-left: 0;
-			display: block;
+			display: none;
 		}
